@@ -1,0 +1,2 @@
+# try_git
+alog
